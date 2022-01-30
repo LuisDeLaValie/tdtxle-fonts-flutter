@@ -1,39 +1,18 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# TDTxLE_Font_flutter 
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+un paquete que reune las funetes como los icons de los fonts que mas me gusta para poder usarlos en **flutter**
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+actual mente solo cunetan con dos funetes las cuales son:
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+<br>
+<img src="NERD_FONTS.png" width="150px" />
 
-## Features
+**Nerd Font:** 
+el cual lo puedes encontar en [nerdfonts.com](https://www.nerdfonts.com). La fuente que actual mente se usa en este paquete es [*Hack Nerd Font*](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip).
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+<br>
 
-## Getting started
+![asd](boxIcons.png) 
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+**BoxIcons:**
+el cual lo puedes encontar en [boxicons.com](https://boxicons.com/).
