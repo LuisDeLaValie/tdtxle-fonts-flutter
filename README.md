@@ -16,3 +16,27 @@ el cual lo puedes encontar en [nerdfonts.com](https://www.nerdfonts.com). La fue
 
 **BoxIcons:**
 el cual lo puedes encontar en [boxicons.com](https://boxicons.com/).
+
+## Use
+
+### por tag
+```yaml
+tdtxle_fonts:
+    git:
+      url: https://github.com/LuisDeLaValie/tdtxle_fonts_flutter.git
+      tag: 0.0.1
+```
+### por rama
+```yaml
+tdtxle_fonts:
+    git:
+      url: https://github.com/LuisDeLaValie/tdtxle_fonts_flutter.git
+      ref: master        
+```
+### por commit
+```yaml
+tdtxle_fonts:
+    git:
+      url: https://github.com/LuisDeLaValie/tdtxle_fonts_flutter.git
+      ref: f441cba
+```
