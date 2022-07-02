@@ -3877,7 +3877,7 @@ class IconsTDTxLE {
     static const IconData bxl_flutter = IconDataBoxIcons(0xe92e);
     static const IconData bxl_foursquare = IconDataBoxIcons(0xe92f);
     static const IconData bxl_git = IconDataBoxIcons(0xe930);
-    static const IconData bxl_github = IconDataBoxIcons(0xee931);
+    static const IconData bxl_github = IconDataBoxIcons(0xe931);
     static const IconData bxl_gitlab = IconDataBoxIcons(0xe932);
     static const IconData bxl_google = IconDataBoxIcons(0xe933);
     static const IconData bxl_google_cloud = IconDataBoxIcons(0xe934);
