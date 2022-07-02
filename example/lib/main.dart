@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
           title: Text('Material App Bar'),
         ),
         body: const Center(
-          child: Icon(IconsTDTxLE.nf_dev_git_branch),
+          // child: Icon(IconsTDTxLE.nf_dev_git_branch), // para nert font
+          child: Icon(IconsTDTxLE.bxl_facebook_circle), // para boxicons
         ),
       ),
     );
