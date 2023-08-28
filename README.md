@@ -21,29 +21,29 @@ el cual lo puedes encontar en [boxicons.com](https://boxicons.com/).
 
 ### por tag
 ```yaml
-tdtxle_fonts:
+tdtxle_icons:
     git:
-      url: https://github.com/LuisDeLaValie/tdtxle_fonts_flutter.git
+      url: https://github.com/LuisDeLaValie/tdtxle_icons_flutter.git
       tag: 0.0.1
 ```
 ### por rama
 ```yaml
-tdtxle_fonts:
+tdtxle_icons:
     git:
-      url: https://github.com/LuisDeLaValie/tdtxle_fonts_flutter.git
+      url: https://github.com/LuisDeLaValie/tdtxle_icons_flutter.git
       ref: master        
 ```
 ### por commit
 ```yaml
-tdtxle_fonts:
+tdtxle_icons:
     git:
-      url: https://github.com/LuisDeLaValie/tdtxle_fonts_flutter.git
+      url: https://github.com/LuisDeLaValie/tdtxle_icons_flutter.git
       ref: f441cba
 ```
 # ejemplo
 ```dart
 import 'package:flutter/material.dart';
-import 'package:tdtxle_fonts/tdtxle_fonts.dart';
+import 'package:tdtxle_icons/tdtxle_icons.dart';
 
 void main() => runApp(MyApp());
 

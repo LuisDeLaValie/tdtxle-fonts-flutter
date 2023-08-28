@@ -8,7 +8,7 @@ class IconDataNerdFont extends IconData {
       : super(
           codePoint,
           fontFamily: "NF Hack",
-          fontPackage: "tdtxle_fonts",
+          fontPackage: "tdtxle_icons",
         );
 }
 
@@ -20,6 +20,6 @@ class IconDataBoxIcons extends IconData {
       : super(
           codePoint,
           fontFamily: "BoxIcons",
-          fontPackage: "tdtxle_fonts",
+          fontPackage: "tdtxle_icons",
         );
 }

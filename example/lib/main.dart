@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tdtxle_fonts/tdtxle_fonts.dart';
+import 'package:tdtxle_icons/tdtxle_icons.dart';
 
 void main() => runApp(MyApp());
 
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         ),
         body: const Center(
           // child: Icon(IconsTDTxLE.nf_dev_git_branch), // para nert font
-          child: Icon(IconsTDTxLE.bxl_facebook_circle), // para boxicons
+          child: Icon(IconsTDTxLE.nf_mdi_oil_temperature,color: Colors.red,), // para boxicons
         ),
       ),
     );

@@ -1,6 +1,6 @@
 // ignore_for_file: constant_identifier_names
 
-library tdtxle_fonts;
+library tdtxle_icons;
 
 import 'package:flutter/material.dart';
 
@@ -17,8 +17,11 @@ class IconsTDTxLE {
   ///
   /// https://fontawesome.com/icons/accessible-icon?style=brands
   /// accessibility, handicap, person, wheelchair, wheelchair-alt
+    
     static const IconData nf_custom_c = IconDataNerdFont(0xe61e); 
+    /// <i class="nf-md-bus_electric md-36">10k \udb86\udd1d</i> &#x2014; material icon named "10k".
     static const IconData nf_custom_cpp = IconDataNerdFont(0xe61d); 
+    /// <i class="material-icons md-36">10k</i> &#x2014; material icon named "10k".
     static const IconData nf_custom_electron = IconDataNerdFont(0xe62e); 
     static const IconData nf_custom_elixir = IconDataNerdFont(0xe62d); 
     static const IconData nf_custom_elm = IconDataNerdFont(0xe62c); 
@@ -3824,6 +3827,8 @@ class IconsTDTxLE {
     static const IconData nf_weather_wind_south_east = IconDataNerdFont(0xe356); 
     static const IconData nf_weather_wind_south_west = IconDataNerdFont(0xe355); 
     static const IconData nf_weather_wind_west = IconDataNerdFont(0xe354); 
+    
+    /// <i class="nf-md-bus_electric">abc</i> &#x2014; material icon named "abc" (round).
     static const IconData nf_weather_windy = IconDataNerdFont(0xe31e); 
   // :::::::::::: NERD FONT :::::::::
 
